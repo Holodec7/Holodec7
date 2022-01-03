@@ -50,7 +50,7 @@ I'm learning solidity and technologies which will allow me to become a part of W
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Git
+* [ ] 
+* [ ]       
 <!-- TODO-IST:END -->
