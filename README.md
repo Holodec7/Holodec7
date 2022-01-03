@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Привет-привет! <img src="https://cryptomaximumnews.com/wp-content/uploads/2021/05/jcggemgkxcgjgxqtf7hdqdwi3fepcvk5cjfh.jpg  width="25px">
+### Привет-привет! <img src="https://cryptomaximumnews.com/wp-content/uploads/2021/05/jcggemgkxcgjgxqtf7hdqdwi3fepcvk5cjfh.jpg" width="25px">
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
