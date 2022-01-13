@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br />
 
-I'm learning solidity and technologies which will allow me to become a part of Web3 world.
+I'm learning solidity and technologies which will allow me to become a part of the Web3 world.
 
 <br />
 
